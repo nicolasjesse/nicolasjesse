@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello Stranger 👋
+#### I'm a ADS student, Mathematics lover and enthusiast of Rationalism.
 <!--
 **nicolasjesse/nicolasjesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
