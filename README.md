@@ -1,4 +1,4 @@
-### Hello Stranger (hello not-stranger too)
+### Hello stranger (hello not-stranger too)
 I'm a ADS student, Mathematics lover and enthusiast of Rationalism.
 My aim is to know everything I can, on the best way as possible.
 <!--
