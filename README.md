@@ -31,13 +31,3 @@
 </br>
 <p align="left"><a href="https://nicolasjesse.dev" target="blank"><img src="https://img.shields.io/badge/Website-nicolasjesse.dev-FF5733?style=for-the-badge&logoColor=fff&logo=googlechrome" alt="nicolasjesse" /></a></p>
 <p><a href="https://linkedin.com/in/nicolasjesse" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=fff&logo=linkedin" alt="nicolasjesse" /></a></p>
-
-<h1 align="center">Some stats</h1>
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolasjesse" alt="nicolasjesse" /></a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasjesse&show_icons=true&locale=en&layout=compact" alt="nicolasjesse" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasjesse&show_icons=true&locale=en" alt="nicolasjesse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasjesse" alt="nicolasjesse" /></p>
