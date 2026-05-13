@@ -26,7 +26,9 @@
 
 🔬 Built and benchmarked multi-LLM systems in production — GPT, Claude, Qwen, LLaMA, DeepSeek, Gemma, and Mistral evaluated for cost and performance on real user workloads
 
-📦 Shipped open-source packages that grew from ~2k to ~23k weekly npm downloads
+📦 Contributed to [LemonadeJS](https://github.com/lemonadejs/lemonadejs) (~23k weekly downloads) and [jSuites](https://github.com/jsuites/jsuites) (~90k weekly downloads) — open-source component libraries used by developers worldwide
+
+🛠️ Shipped features on a SaaS used by ~12k developers weekly, including enterprise clients across multiple industries
 
 </br>
 <p align="left"><a href="https://nicolasjesse.dev" target="blank"><img src="https://img.shields.io/badge/Website-nicolasjesse.dev-FF5733?style=for-the-badge&logoColor=fff&logo=googlechrome" alt="nicolasjesse" /></a></p>
