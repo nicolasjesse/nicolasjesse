@@ -1,7 +1,7 @@
 # Nicolas Jessé
 <p><img src="https://komarev.com/ghpvc/?username=nicolasjesse&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasjesse" /></p>
 
-💻 <b>Senior Software Engineer focused on AI/LLM systems</b>
+💻 <b>Software Engineer focused on AI/LLM systems</b>
 
 <p>I build AI-powered software — agents, pipelines, and multi-step workflows that run reliably in production. Most of my recent work lives at the intersection of LLM tooling and full-stack engineering, with a particular interest in multi-agent orchestration and local-first architecture.</p>
 
