@@ -5,7 +5,7 @@
 
 <p>I build AI-powered software — agents, pipelines, and multi-step workflows that run reliably in production. Most of my recent work lives at the intersection of LLM tooling and full-stack engineering, with a particular interest in multi-agent orchestration and local-first architecture.</p>
 
-<p>I've shipped LLM integrations from scratch at scale, benchmarked 7 LLM families for cost and performance, optimized 500+ Excel-compatible formulas, and I'm currently building Rebise — a local-first personal assistant where a LangGraph agent drives a pluggable workspace through natural language, with all user data living in IndexedDB.</p>
+<p>I'm currently building Rebise — a local-first personal assistant where a LangGraph agent drives a pluggable workspace through natural language, with all user data living in IndexedDB and never leaving the browser unless the agent explicitly requests it via a tool call.</p>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logoColor=fff&logo=python)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logoColor=fff&logo=typescript)&nbsp;
@@ -22,11 +22,11 @@
 
 ⚙️ Specialized in AI/LLM engineering — multi-agent systems, tool calling, RAG, embeddings, and eval pipelines
 
-🚀 Currently building [Rebise](https://github.com/nicolasjesse/rebise) — a local-first personal assistant powered by a LangGraph agent; the agent drives a workspace of pluggable components (calendar, finance, notes, gym) through natural language, with all data staying in IndexedDB
+🚀 Currently building [Rebise](https://github.com/nicolasjesse/rebise) — a LangGraph agent that drives a workspace of pluggable components (calendar, finance, notes, gym tracker) through natural language, all local-first
 
-🔬 Benchmarked GPT, Claude, Qwen, LLaMA, DeepSeek, Gemma, and Mistral for cost/performance on a production natural-language spreadsheet feature at Jspreadsheet
+🔬 Built and benchmarked multi-LLM systems in production — GPT, Claude, Qwen, LLaMA, DeepSeek, Gemma, and Mistral evaluated for cost and performance on real user workloads
 
-📦 Shipped open-source component library packages that grew from ~2k to ~23k weekly npm downloads over two years
+📦 Shipped open-source packages that grew from ~2k to ~23k weekly npm downloads
 
 </br>
 <p align="left"><a href="https://nicolasjesse.dev" target="blank"><img src="https://img.shields.io/badge/Website-nicolasjesse.dev-FF5733?style=for-the-badge&logoColor=fff&logo=googlechrome" alt="nicolasjesse" /></a></p>
