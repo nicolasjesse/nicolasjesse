@@ -16,6 +16,7 @@
 │  [backend]            FastAPI · Django · Flask · Rails · Express    │
 │  [frontend]           React · Vue.js · React Native                 │
 │  [databases]          PostgreSQL · MongoDB                          │
+│  [vector dbs]         ChromaDB · Pinecone                           │
 │  [infra]              AWS · Docker                                  │
 │                                                                     │
 │  $ cat hobbies.txt                                                  │
