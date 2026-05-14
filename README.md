@@ -22,7 +22,7 @@
 │                                                                     │
 │  $ cat hobbies.txt                                                  │
 │                                                                     │
-│  guitar · reading · math · craftsmanship · learning                 │
+│  guitar · reading · writing · craftsmanship · learning              │
 │                                                                     │
 │  $ _                                                                │
 │                                                                     │
